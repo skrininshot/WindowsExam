@@ -1,0 +1,13 @@
+C:\Education\4 course\ПМ.02\WindowsExam\bin\Debug\WindowsExam.exe.config
+C:\Education\4 course\ПМ.02\WindowsExam\bin\Debug\WindowsExam.exe
+C:\Education\4 course\ПМ.02\WindowsExam\bin\Debug\WindowsExam.pdb
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.csproj.AssemblyReference.cache
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.csproj.SuggestedBindingRedirects.cache
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.Form1.resources
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.Properties.Resources.resources
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.csproj.GenerateResource.cache
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.csproj.CoreCompileInputs.cache
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.exe
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.pdb
+C:\Education\4 course\ПМ.02\WindowsExam\obj\Debug\WindowsExam.csproj.ResolveComReference.cache
+C:\Education\4 course\ПМ.02\WindowsExam\bin\Debug\report.docx
